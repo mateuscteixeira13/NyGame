@@ -1,3 +1,8 @@
+/ **
+* This code is under the MIT License
+* By MateusCT13
+*/
+
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
